@@ -5,8 +5,8 @@ A small static developer/publisher website for Hideki Builder. HTML, CSS, and a 
 ## Pages
 
 - / — brand and app cards
-- /readorbit/ — overview, getting started, support, beta limitations
-- /readorbit/privacy/ — privacy draft, marked for review
+- [ReadOrbit](https://readorbit.app/) — product overview and support (hosted separately)
+- [ReadOrbit privacy draft](https://readorbit.app/privacy/)
 - /contact/ — contact availability and support direction
 - /404.html — missing-page recovery
 
